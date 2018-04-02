@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "652287983913",
+    "firebase_url": "https://take-home-assignment-09.firebaseio.com",
+    "project_id": "take-home-assignment-09",
+    "storage_bucket": "take-home-assignment-09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652287983913:android:a703158d0ffe3d15",
+        "android_client_info": {
+          "package_name": "com.example.h.takehomeassignment09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652287983913-1uk00a3eslhkuvdif9v922qpc70v3df9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHRb4bmXsDlyPqWhxTzcR6Nt7edDV7KrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
